@@ -5,11 +5,6 @@
 ### Python ist eine Skriptsprache
 Python ist eine Skriptsprache. Das bedeutet, dass ihr Quellcode direkt ausgeführt werden kann, sofern ein Python Interpreter installiert ist.
 
-### Kommentare in Python
-Über ein Hashtag wird ein Kommentar eingeleitet. Kommentare sind nur für den Menschen gedacht. Der Python Interpreter ignoriert alle Kommentare. 
-
-Kommentare werden verwendet, um den Quellcode zu dokumentieren
-
 ### Ausgaben
 Mit dem Befehl *print( ... )* kann Text ausgegeben werden. Text muss dabei in Hochkomma (") angegeben werden.
 

@@ -6,7 +6,7 @@
 Python ist eine Skriptsprache. Das bedeutet, dass ihr Quellcode direkt ausgeführt werden kann, sofern ein Python Interpreter installiert ist.
 
 ### Ausgaben
-Mit dem Befehl *print( ... )* kann Text ausgegeben werden. Text muss dabei in Hochkomma (") angegeben werden.
+Mit dem Befehl *print( ... )* kann Text ausgegeben werden. Text muss dabei in doppelten oder einfachen Hochkomma (" oder ') angegeben werden.
 
 ### Einrückungen
 Einrückungen in Python sind **NICHT** optional. Über die Einrückung werden Blöcke festgelegt und ersetzen so die geschweiften Klammern in anderen Programmiersprachen.

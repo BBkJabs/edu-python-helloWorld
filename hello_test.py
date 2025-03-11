@@ -3,7 +3,7 @@ import io;
 
 def test_hello():
     #monkeypatch.setattr('sys.stdin', io.StringIO('3 2 1 nn bb aa'))
-    printText.main() 
+    hello.main() 
     captured = capsys.readouterr()
 
     expected_output = "Hello\nWorld!"

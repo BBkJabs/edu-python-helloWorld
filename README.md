@@ -16,6 +16,6 @@ Einrückungen in Python sind **NICHT** optional. Über die Einrückung werden Bl
 Kommentare werden verwendet, um den Quellcode zu dokumentieren.
 
 ## Aufgabe
-Ändere das Python Skript in der Datei *hello.py*, so dass bei Ausführung der Text *Hello World!* ausgegeben wird.  
+Ändere das Python Skript in der vorhandenen Datei *hello.py*, so dass bei Ausführung der Text ***Hello World!*** ausgegeben wird.  
 
 **WICHTIG:** Ändere **NICHT** die anderen Dateien

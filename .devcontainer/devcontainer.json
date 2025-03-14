@@ -1,0 +1,11 @@
+{
+  "name": "Python",
+  "image": "mcr.microsoft.com/devcontainers/python:3.9",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-python.python"
+  ],
+  "postCreateCommand": "pip install pytest"
+}
